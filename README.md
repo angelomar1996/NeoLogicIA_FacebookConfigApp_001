@@ -20,3 +20,4 @@ La información se usa únicamente para automatizar publicaciones en Facebook.
 ## 📧 Contacto
 
 Email: soporte@tudominio.com
+- Actualización para deploy
